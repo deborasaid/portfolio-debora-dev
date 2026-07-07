@@ -31,7 +31,7 @@ export default function Hero() {
           </p>
 
           <p className="hero-desc">
-            Criando experiências digitais com criatividade, código limpo e visão de segurança.
+           Transformando ideias em experiências digitais através de tecnologia, criatividade e inovação.
           </p>
 
           <div className="hero-ctas">
